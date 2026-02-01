@@ -193,4 +193,12 @@ MIT License - see LICENSE file for details
 
 ---
 
+## 🔗 Links
+
+- **GitHub Repository**: [https://github.com/lawrencezcl/NeuralTrade-AI](https://github.com/lawrencezcl/NeuralTrade-AI)
+- **Hackathon**: [Injective AI Agent Hackathon](https://dorahacks.io/hackathon/injective-ai/detail)
+- **Prize Pool**: $100,000 USD
+
+---
+
 **Built with ❤️ for Injective AI Agent Hackathon 2025**
